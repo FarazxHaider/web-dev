@@ -1,0 +1,7 @@
+/-- To Update Files on Git --/
+git add .
+git commit -m "Updated files"
+git push
+
+/-- To Clone Files on Git --/
+git clone https://github.com/your-username/web-design-course.git
